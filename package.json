@@ -1,0 +1,17 @@
+{
+  "name": "search-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src"
+  },
+  "author": "truong",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0",
+    "telegraf": "^4.11.2"
+  }
+}

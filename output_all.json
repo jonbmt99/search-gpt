@@ -1,0 +1,47 @@
+[
+  {
+    "CITY-VILLE": "Abbotsford",
+    "COMPANY-ENTREPRISE": "A & P FRUIT GROWERS LTD.",
+    "EMAIL": "https://www.apfruitgrowers.ca/",
+    "WEBSITE": "apfruit@hotmail.com",
+    "PROVINCE_FRA": "Colombie-Britannique",
+    "POSTAL_CODE-CODE_POSTAL": "V4X 2M4",
+    "DATA_YEAR-ANNÉE_DES_DONNÉES": 2018,
+    "result": "Email: info@apfruitgrowers.com, Website: www.apfruitgrowers.com"
+  },
+  {
+    "CITY-VILLE": "Abbotsford",
+    "COMPANY-ENTREPRISE": "ABBEYWRAP PACKAGING LTD.",
+    "EMAIL": "https://abbeywrap.com/",
+    "WEBSITE": "info@abbeywrap.com",
+    "PROVINCE_FRA": "Colombie-Britannique",
+    "POSTAL_CODE-CODE_POSTAL": "V2T 5W5",
+    "DATA_YEAR-ANNÉE_DES_DONNÉES": 2018,
+    "result": "Email: info@abbeywrappackaging.com, Website: www.abbeywrappackaging.com"
+  },
+  {
+    "CITY-VILLE": "Abbotsford",
+    "COMPANY-ENTREPRISE": "ABBOTSFORD CONCRETE PRODUCTS LTD.",
+    "EMAIL": "http://pavingstones.com",
+    "PROVINCE_FRA": "Colombie-Britannique",
+    "POSTAL_CODE-CODE_POSTAL": "V2S 7W6",
+    "DATA_YEAR-ANNÉE_DES_DONNÉES": 2018,
+    "result": "Email: info@abbotsfordconcrete.ca, Website: abbotsfordconcrete.ca"
+  },
+  {
+    "CITY-VILLE": "Abbotsford",
+    "COMPANY-ENTREPRISE": "ADVANCED NUTRIENTS LTD.",
+    "PROVINCE_FRA": "Colombie-Britannique",
+    "POSTAL_CODE-CODE_POSTAL": "V2T 4Y1",
+    "DATA_YEAR-ANNÉE_DES_DONNÉES": 2018,
+    "result": "Email: info@advancednutrients.com, Website: www.advancednutrients.com"
+  },
+  {
+    "CITY-VILLE": "Abbotsford",
+    "COMPANY-ENTREPRISE": "ADVENTURER MFG LIMITED PARTNERSHIP",
+    "PROVINCE_FRA": "Colombie-Britannique",
+    "POSTAL_CODE-CODE_POSTAL": "V2T 6L4",
+    "DATA_YEAR-ANNÉE_DES_DONNÉES": 2018,
+    "result": "Email: info@adventurermfg.com, Website: www.adventurermfg.com"
+  }
+]
