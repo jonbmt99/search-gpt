@@ -10,8 +10,15 @@
   "author": "truong",
   "license": "MIT",
   "dependencies": {
+    "deep-email-validator": "^0.1.21",
     "dotenv": "^16.0.3",
+    "email-existence": "^0.1.6",
+    "isemail": "^3.2.0",
+    "node-email-validation": "^1.0.4",
     "openai": "^3.1.0",
     "telegraf": "^4.11.2"
+  },
+  "devDependencies": {
+    "exceljs": "^4.3.0"
   }
 }
