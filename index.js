@@ -1,4 +1,4 @@
-const OPENAI_API_KEY='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'
+const OPENAI_API_KEY=''
 const input_file_name = 'input_example.json';
 const output_file_name = 'output_example.json';
 const input_row = parseInt(process.argv.splice(2).join(" "), 10);
