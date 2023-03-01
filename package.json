@@ -16,7 +16,8 @@
     "isemail": "^3.2.0",
     "node-email-validation": "^1.0.4",
     "openai": "^3.1.0",
-    "telegraf": "^4.11.2"
+    "telegraf": "^4.11.2",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.10/xlsx-0.18.10.tgz"
   },
   "devDependencies": {
     "exceljs": "^4.3.0"
