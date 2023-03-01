@@ -3,7 +3,8 @@ require('dotenv').config();
 const OPENAI_API_KEY = process.env['OPENAI_API_KEY'];
 const input_file_name = process.env['INPUT_FILE_NAME'];
 const output_file_name = process.env['OUTPUT_FILE_NAME'];
-const rows = require(`./data-input/${input_file_name}`);
+let rows = require(`./data-input/${input_file_name}`);
+rows = rows.Data;
 const dns = require('dns');
 const XLSX = require("xlsx");
 
