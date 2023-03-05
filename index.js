@@ -39,7 +39,7 @@ async function main() {
   let retry_count = 1;
   let sub_question = '';
   while (i < rows.length) {
-    await timeout(1000);
+    await timeout(1750);
     const row = rows[i];
     const company =  row['COMPANY-ENTREPRISE'];
     const city = row['CITY-VILLE'];
