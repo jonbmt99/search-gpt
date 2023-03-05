@@ -39,6 +39,7 @@ async function main() {
   let retry_count = 1;
   let sub_question = '';
   while (i < rows.length) {
+    await timeout(1000);
     const row = rows[i];
     const company =  row['COMPANY-ENTREPRISE'];
     const city = row['CITY-VILLE'];
@@ -126,5 +127,9 @@ async function lookupPromise(website) {
       });
  });
 };
+
+function timeout(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 main();
